@@ -63,26 +63,8 @@ Includes:
 
 ## 📁 Project Structure
 
-pdf_reader/
-│
-├── public/
-│ ├── web/ → PDF.js Viewer (MUST be kept)
-│ ├── build/ → pdf.js core build files
-│ └── Report.pdf → Your PDF file
-│
-├── src/
-│ ├── components/
-│ │ ├── AnalysisPanel.jsx
-│ │ └── PdfViewer.jsx
-│ │
-│ ├── charts/
-│ │ └── AutoChart.jsx
-│ │
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── index.css
-│
-└── README.md
+<img width="478" height="727" alt="image" src="https://github.com/user-attachments/assets/1b154a2b-7342-4aa9-a385-94e00b92dc2c" />
+
 
 
 > ⚠️ **Important:**  
