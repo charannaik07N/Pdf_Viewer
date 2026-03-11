@@ -7,3 +7,4 @@
 [2026-03-10T09:20:46.621Z] fix typo in inline documentation
 [2026-03-10T10:08:43.492Z] verify webhook delivery retry logic
 [2026-03-10T10:52:34.268Z] reduce API response time with connection keep-alive
+[2026-03-11T09:53:59.236Z] add response compression middleware
