@@ -11,3 +11,4 @@
 [2026-03-18T14:11:16.908Z] support CSV and JSON export formats
 [2026-03-18T14:27:18.917Z] add fallback for browsers without WebSocket support
 [2026-03-19T05:36:12.995Z] patch XSS vulnerability in form input
+[2026-03-19T10:14:10.156Z] fix test data setup for isolated test runs
