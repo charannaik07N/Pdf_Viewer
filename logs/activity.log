@@ -10,3 +10,4 @@
 [2026-03-18T11:58:51.826Z] revert accidental commit to wrong branch
 [2026-03-18T14:11:16.908Z] support CSV and JSON export formats
 [2026-03-18T14:27:18.917Z] add fallback for browsers without WebSocket support
+[2026-03-19T05:36:12.995Z] patch XSS vulnerability in form input
