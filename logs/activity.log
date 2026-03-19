@@ -14,3 +14,4 @@
 [2026-03-19T10:14:10.156Z] fix test data setup for isolated test runs
 [2026-03-19T13:10:09.353Z] update changelog for v2.1 release
 [2026-03-19T14:03:54.699Z] resolve null pointer in user validation
+[2026-03-19T14:30:59.437Z] prevent duplicate entries in cache
