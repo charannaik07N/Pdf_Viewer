@@ -19,3 +19,4 @@
 [2026-03-20T04:43:37.057Z] fix incorrect status code for validation errors
 [2026-03-20T13:22:30.828Z] correct regex pattern for email validation
 [2026-03-20T14:24:52.607Z] update changelog for v2.1 release
+[2026-03-21T10:09:22.060Z] fix memory leak in event listener cleanup
