@@ -9,3 +9,4 @@
 [2026-03-25T13:43:42.561Z] clarify deployment steps in README
 [2026-03-26T08:53:46.036Z] resolve conflict between middleware handlers
 [2026-03-27T12:04:03.472Z] migrate from deprecated API to v2
+[2026-03-28T12:20:29.163Z] add pagination support to list endpoints
