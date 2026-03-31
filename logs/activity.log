@@ -1,3 +1,4 @@
 [2026-03-30T13:49:01.494Z] update changelog for v2.1 release
 [2026-03-31T07:12:02.066Z] update lock file after dependency audit
 [2026-03-31T15:10:06.311Z] decouple logging from business logic
+[2026-03-31T16:35:58.696Z] remove polyfills no longer needed
