@@ -10,3 +10,4 @@
 [2026-04-10T16:55:00.285Z] implement request caching with TTL support
 [2026-04-11T04:19:30.159Z] optimize image loading with lazy initialization
 [2026-04-11T08:32:20.776Z] support CSV and JSON export formats
+[2026-04-11T10:56:45.042Z] fix incorrect status code for validation errors
