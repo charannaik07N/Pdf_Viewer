@@ -13,3 +13,4 @@
 [2026-04-11T10:56:45.042Z] fix incorrect status code for validation errors
 [2026-04-11T15:10:07.648Z] resolve null pointer in user validation
 [2026-04-12T07:02:30.648Z] update nginx reverse proxy configuration
+[2026-04-12T09:42:11.405Z] increase test coverage to 85%
