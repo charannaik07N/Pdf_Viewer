@@ -6,3 +6,4 @@
 [2026-04-15T13:38:43.416Z] fix flaky test caused by timing dependency
 [2026-04-15T16:02:51.735Z] extract common utilities into shared helper
 [2026-04-15T16:13:49.818Z] prevent duplicate entries in cache
+[2026-04-16T07:35:11.122Z] clean up commented-out dead code
