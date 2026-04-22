@@ -5,3 +5,4 @@
 [2026-04-21T16:59:02.827Z] implement connection pooling for database
 [2026-04-22T04:21:17.487Z] simplify auth middleware chain
 [2026-04-22T04:53:07.910Z] fix test data setup for isolated test runs
+[2026-04-22T10:53:00.219Z] bump Node.js version to LTS release
