@@ -5,3 +5,4 @@
 [2026-04-29T20:02:40.539Z] add JSDoc comments to public API methods
 [2026-05-01T03:43:41.895Z] configure pre-commit hooks for linting
 [2026-05-01T08:56:40.288Z] fix memory leak in event listener cleanup
+[2026-05-01T09:39:20.577Z] add support for batch processing
