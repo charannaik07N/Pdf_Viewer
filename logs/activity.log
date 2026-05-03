@@ -12,3 +12,4 @@
 [2026-05-02T11:14:32.415Z] extract magic numbers into named constants
 [2026-05-02T12:04:20.923Z] replace callback pattern with async/await
 [2026-05-03T10:15:16.659Z] refactor file upload handler for better testability
+[2026-05-03T12:28:50.943Z] split build and test stages for faster feedback
