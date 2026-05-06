@@ -1,3 +1,4 @@
 [2026-05-04T03:40:59.491Z] add webhook notification support
 [2026-05-05T08:35:34.879Z] handle undefined response from external API
 [2026-05-05T10:47:37.610Z] update API rate limit documentation
+[2026-05-06T10:46:56.182Z] refactor error handling to use custom error classes
