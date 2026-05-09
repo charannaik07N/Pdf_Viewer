@@ -8,3 +8,4 @@
 [2026-05-07T10:44:15.650Z] simplify nested conditional blocks
 [2026-05-08T12:22:07.476Z] handle missing env variable gracefully
 [2026-05-08T13:24:08.403Z] add lint check to pre-commit hook
+[2026-05-09T13:46:47.420Z] move business logic out of controller
