@@ -13,3 +13,4 @@
 [2026-05-16T13:26:32.887Z] enforce single quotes across codebase
 [2026-05-17T06:33:46.085Z] resolve conflict between middleware handlers
 [2026-05-17T08:43:06.812Z] support CSV and JSON export formats
+[2026-05-17T13:35:10.832Z] resolve null pointer in user validation
