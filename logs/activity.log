@@ -3,3 +3,4 @@
 [2026-05-18T12:01:28.831Z] migrate from deprecated API to v2
 [2026-05-18T14:22:58.946Z] implement input sanitization middleware
 [2026-05-19T07:23:53.804Z] add webhook notification support
+[2026-05-19T11:01:10.091Z] add JSDoc comments to public API methods
