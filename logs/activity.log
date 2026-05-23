@@ -13,3 +13,4 @@
 [2026-05-21T12:20:06.832Z] add tests for rate limiter logic
 [2026-05-22T08:17:39.743Z] implement input sanitization middleware
 [2026-05-23T10:51:13.004Z] split build and test stages for faster feedback
+[2026-05-23T12:52:16.538Z] clarify deployment steps in README
