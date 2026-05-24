@@ -16,3 +16,4 @@
 [2026-05-23T12:52:16.538Z] clarify deployment steps in README
 [2026-05-24T03:53:40.988Z] add caching step to GitHub Actions workflow
 [2026-05-24T11:30:09.322Z] fix incorrect status code for validation errors
+[2026-05-24T14:11:16.246Z] implement lazy loading for dashboard cards
