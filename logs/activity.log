@@ -2,3 +2,4 @@
 [2026-05-25T12:40:22.653Z] add Prometheus metrics endpoint
 [2026-05-26T13:56:46.264Z] resolve null pointer in user validation
 [2026-05-27T06:20:40.337Z] refactor database queries to use query builder
+[2026-05-28T07:50:17.369Z] update nginx reverse proxy configuration
