@@ -6,3 +6,4 @@
 [2026-05-28T14:29:55.570Z] improve startup time by deferring non-critical init
 [2026-05-29T06:14:38.447Z] add caching step to GitHub Actions workflow
 [2026-05-30T08:16:57.148Z] split build and test stages for faster feedback
+[2026-05-30T11:47:18.382Z] update changelog for v2.1 release
